@@ -10,7 +10,7 @@ function Home() {
         <div className='home-name'>
         <h1 id="nama" className=" display-1 mt-7">Tegar Risqy Yulian Santoso</h1>
         <div className='about-me'>
-        A passionate <span>startup builder</span>
+         an ordinary student who has 1000 dreams
         </div>
         <div className='social-info'>
       <i><FaGithub /></i>
